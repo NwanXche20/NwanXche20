@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Javascript and ReactJs
 - 💞️ I’m looking to collaborate on frontend Web design projects
 - 📫 How to reach me: 
-	- <a href="https://twitter.com/NwanXche">twitter</a>
+	- <a href="https://twitter.com/NwanXche" target="_blank">twitter</a>
 	- email: uchenwaneri27@gmail.com
 
