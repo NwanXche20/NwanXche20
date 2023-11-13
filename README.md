@@ -6,4 +6,5 @@
 - 📫 How to reach me: 
 	- <a href="https://twitter.com/NwanXche">Twitter</a>
 	- email: <a href="mailto:uchenwaneri27@gmail.com">uchenwaneri27@gmail.com</a>
+ 	- <a href="https://uchechukwu.vercel.app">My Portfolio</a>
 
